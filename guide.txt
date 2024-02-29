@@ -1,0 +1,2 @@
+https://developer.android.google.cn/develop/connectivity/overview
+https://developer.android.google.cn/develop/connectivity/network-ops/reading-network-state?hl=zh-cn
